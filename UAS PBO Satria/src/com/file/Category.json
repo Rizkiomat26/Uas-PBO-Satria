@@ -1,0 +1,20 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Minuman"
+    },
+    {
+      "id": 2,
+      "name": "Makanan"
+    },
+    {
+      "id": 3,
+      "name": "Pakaian"
+    },
+    {
+      "id": 4,
+      "name": "Buah-buahan"
+    }
+  ]
+}
